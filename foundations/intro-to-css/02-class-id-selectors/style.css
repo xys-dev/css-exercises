@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.add-numbers {
+    background-color: lightpink;
+    font-family: Verdana, DegaVu Sans, sans-serif;
+}
+
+.fontsize {
+    font-size: 24px;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+}
